@@ -1,0 +1,100 @@
+minuscule{
+  font-size: 9px;
+}
+
+.kil{
+  background-color: #C0C0C0;
+}
+
+#essai{
+  background-color: #F4F4F4;
+
+}
+
+#opacity{
+
+background-color: #DEB887;
+border-radius: 10px;
+}
+
+#deuxieme{
+  border-radius: 20px;
+   border-right: 3px solid black;
+    border-left: 3px solid black;
+
+}
+
+
+moyen{
+  font-size: 12px;
+}
+
+
+#project{
+	 background-color: 	#DCDCDC;
+margin-right: 10px;
+   border-radius: 30px;
+ }
+
+ .project2{
+	 background-color: #D3D3D3;
+   border-radius: 10px;
+ }
+
+ #langues{
+   height: 200px;
+ padding-right: 60px;
+ border-right: 2px solid black;
+ }
+
+ #images{
+   width: 200px;
+   height: 100px;
+ }
+
+
+
+#image2 {
+  width: 200px;
+  height:150px;
+}
+.circle{
+    margin:10px;
+    width:100px;
+    background:#A9A9A9;
+    height:100px;
+    text-align:center;
+    border-radius:100px;
+    <strong>line-height: 90px; /* 100 - 10 */</strong>
+}
+
+
+
+
+.circle1{
+   margin:10px;
+    width:100px;
+    background:	#FFA07A;
+    height:100px;
+    text-align:center;
+    border-radius:100px;
+
+    <strong>line-height: 90px; /* 100 - 10 */</strong>
+}
+.circle2{
+    margin:10px;
+    width:100px;
+    background:#C71585;
+    height:100px;
+    text-align:center;
+    border-radius:100px;
+    <strong>line-height: 90px; /* 100 - 10 */</strong>
+}
+.circle3{
+    margin:10px;
+    width:100px;
+    background:#87CEEB;
+    height:100px;
+    text-align:center;
+    border-radius:100px;
+    <strong>line-height: 90px; /* 100 - 10 */</strong>
